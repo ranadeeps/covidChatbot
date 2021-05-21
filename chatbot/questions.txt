@@ -1,0 +1,9 @@
+1.Do you currently have any signs/symptoms of a infection such as fever, cough, body aches, or sore throat?
+2.Do you have a fever (more than 100.4 F)?
+3.Do you have symptoms of lower respiratory tract infection such as shortness of breath, or difficulty breathing?
+4.Have you had any symptoms of respiratory illness (cough, nasal congestion) in the past 14 days?
+5.Do you feel any tiredness in the last 14 days?
+6.Have you traveled within the last 14 days to places where crowds are restricted to a common location (e.g., cruise ship/airplane)?
+7.Have you recently traveled to a COVID-19 infected area?
+8.Have you had close contact(within 6 feet) with a person suspected of having COVID-19 in the past 14 days?
+9.Are your symptoms rapidly worsening?
